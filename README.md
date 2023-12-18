@@ -5,6 +5,7 @@
 <h1><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20on%20Fire.png" width="3%"/>Github & velog<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20on%20Fire.png" width="3%"/></h1>
 <img src="https://streak-stats.demolab.com?user=meridaKim&theme=material-palenight"/>
 <img src="https://velog-readme-stats.vercel.app/api?name=luckyzanie777"/>
+<img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=zanie0328/>
 <div align= center><h1>✨Check About me✨</h1></div>
 <div align=center>
 
